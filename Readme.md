@@ -16,6 +16,7 @@ Este proyecto implementa un sistema de detección de discursos de odio en textos
 
 
 ## 📁 Estructura Final del Proyecto
+```plaintext
 BERT-HateSpeech/
 |   .gitignore
 |   optimize_model.py
@@ -115,6 +116,7 @@ BERT-HateSpeech/
     |                   
     +---Include
     +---Lib
+```
 
 
 ## ⚙️ Instalación y Configuración
@@ -169,7 +171,7 @@ Una vez ejecutada la API y el frontend, el sistema permite:
     3. Recibir resultados en tiempo real
 
 ![Uso](tests/Frontend.jpg)
-![Uso](tests/Frontend2.jpg)
+![Uso](tests/Frontend-2.jpg)
 
 
 ## 🔧 Tecnologías
